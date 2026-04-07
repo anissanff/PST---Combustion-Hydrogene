@@ -1,0 +1,9 @@
+Metric,Value
+MAE,1.3197004685398441
+RMSE,2.1069629034816506
+R2,0.9306343958273109
+Corr Spearman - ImageMean vs NOx,0.8533114395183361
+Influence Spearman - CH9,0.5703338806787083
+Influence Spearman - Richesse,0.1667478593379364
+Influence Spearman - Taux d'eau,-0.9903751369442767
+Influence Spearman - O2 [vol%],-0.12370005473453749
